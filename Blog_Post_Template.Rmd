@@ -1,0 +1,11 @@
+---
+title: "Sample Blog Post"
+author: "R-Ladies Chicago"
+date: 2018-07-01T21:13:14-05:00
+categories: ["R"]
+tags: ["community", "rladies"]
+---
+
+Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:  
+
+**YYYY-MM-DD-LASTNAME.Rmd**
