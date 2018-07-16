@@ -43,8 +43,8 @@ _**We want to showcase different R tips and learning at all levels -- anything i
 
 ### Member Profiles    
   
-* We want to spotlight the wonderful members of the R-Ladies Chicago community!  
-* Answer some questions about yourself and how you use R for an interview-style blog post:  
+* We want to spotlight the wonderful members of the R-Ladies Chicago community!     
+* Answer some questions about yourself and how you use R for an interview-style blog post:      
 * Questions could include:  
   + Job Title/Organization  
   + What do you use R for?   
