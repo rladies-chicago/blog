@@ -15,7 +15,7 @@ Anyone, regardless of experience with R or with R-Ladies Chicago is welcome to c
   
 Email chicago@rladies.org letting us know you are interested in contributing to the blog.   
   
-The `.Rmd` file in this repo is our blog post template. If your blog post requires special formatting, please use this when submitting a blog post.         
+The `.Rmd` file in this repo is our blog post template. The use of this template is optional; however, if your blog post requires special formatting, please use this when submitting a blog post. If you opt not to use this template and prefer to submit a word document or plain text, please be sure to include the requested information in the template.          
  
   
 ## Types of Blog Posts  
