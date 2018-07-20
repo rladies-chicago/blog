@@ -6,6 +6,14 @@ categories: ["R"]
 tags: ["community", "rladies"]
 ---
 
-Hello! This is a sample blog post. Be sure to update the header and use the following naming convention when submitting your file:  
+Hello! This is a sample blog post. Be sure to update the header (i.e. change the title, put your name as the author, and include any relevant tags) and use the following naming convention when submitting your file:  
 
-**YYYY-MM-DD-LASTNAME.Rmd**
+**YYYY-MM-DD-LASTNAME.Rmd**  
+  
+  
+Your text goes here!  
+  
+  
+#### About the Author:  
+  
+Please be sure to include a 2-sentence bio about yourself at the end of your blog post! Include your name, job title and organization (if applicable), and a quick summary of your experience with R.  
