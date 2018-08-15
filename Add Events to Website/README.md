@@ -19,7 +19,7 @@ Upon filling out the website template, please rename the `.md` file as the date 
 Place this file and any source files (i.e. images) in the folder labelled **Ready for Website** in this repo and let the webmaster know that you have included files there. When files have been added to the website, they will be removed from this folder.    
    
    
-## Some other nuances  
+### Some other nuances  
   
 For maintaining consistency, use the following conventions when filling out certain fields of the template:  
   
@@ -29,10 +29,10 @@ For `title = ""` use the name of the event that matches with what is posted on o
   
 For `event = ""` start with the sub-group that's meeting, the month, then the type of event. For example:  
   
-* For meetups, the event field should say: **R-Ladies Chicago MONTH TYPE[Technical/Social] Meetup**  
-??? E.g. **R-Ladies Chicago August Technical Meetup**  
-* For study groups, the event field should say: **Study Group Name MONTH Meeting**   
-??? E.g. **NLP Study Group August Meeting**  
+* For meetups, the event field should say: *R-Ladies Chicago MONTH EVENT_TYPE[Technical/Social] Meetup*  
+     E.g. **R-Ladies Chicago August Technical Meetup**  
+* For study groups, the event field should say: *Study Group Name MONTH Meeting*   
+     E.g. **NLP Study Group August Meeting**  
   
 
 The longer event description should include:  
