@@ -35,7 +35,7 @@ For `event = ""` start with the sub-group that's meeting, the month, then the ty
 ??? E.g. **NLP Study Group August Meeting**  
   
 
-The longer event subscription should include:  
+The longer event description should include:  
   
 * A 1-sentence summary about what the event is (this could be the text that is used on the meetup event)  
 * An email or method of contact if someone wants more information  
