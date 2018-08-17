@@ -77,6 +77,8 @@ Schedule:
 
 ### Sponsors  
   
+List the sponsors for the event if applicable. Below are the typical sponsors for our main meetups.\:  
+  
 *[Venue; change if not WeWork]*  
 Thank you to WeWork for providing space! WeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework  
   
