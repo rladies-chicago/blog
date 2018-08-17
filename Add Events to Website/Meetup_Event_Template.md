@@ -77,7 +77,7 @@ Schedule:
 
 ### Sponsors  
   
-*[Venue; change if not WeWork]*
+*[Venue; change if not WeWork]*  
 Thank you to WeWork for providing space! WeWork provides small businesses, startups, freelancers, large enterprises, and everyone in between with the workspace, community, and services they need to make a life, not just a living. With weekly events, personalized support, month-to-month flexibility, and access to over 200,000 like-minded creators around the world, WeWork is the perfect place to grow your business. Book your tour here! https://www.wework.com/l/chicago--IL?utm_campaign=CHI-2018-04-26-18-RLadies&utm_medium=page&utm_source=wework  
   
 Thank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-us/advocates/index.html) and David Smith for sponsoring food for this event!  
@@ -85,13 +85,13 @@ Thank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-u
   
 ### FAQs
   
-**Q: Are men welcome to attend R-Ladies events?**
+**Q: Are men welcome to attend R-Ladies events?**  
 A: Yes, men are welcome at this event. Our mission is to encourage more women and non-binary individuals to get involved in the R community. Please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.
   
-**Are RSVP required?**
+**Are RSVP required?**  
 [yes/no] and any details about accessing the venue.  
   
-**Will food be provided?** 
+**Will food be provided?**   
 yes/no
 
 **What do I need to bring?**
@@ -99,6 +99,6 @@ yes/no
 - laptop
 - powerchord
 
-**Important to know**
+**Important to know**  
 We expect all attendees to abide & be governed by our community code of conduct. Please take a moment to review our R-Ladies Global code of conduct (particularly if this is your first time attending!): https://rladies.org/code-of-conduct/  
 
