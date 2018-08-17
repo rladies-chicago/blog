@@ -68,7 +68,7 @@ Schedule:
 7:20-8:00 -- Mingling, hanging out, more food  
   
 __*Sample Study Group Agenda*__  
-Schedule:
+Schedule:  
 5:45-6:00 -- Setup, intros, small talk  
 6:00-6:15 -- R Package Lightning Talk  
 6:15-6:30 -- Tidy Text Book Club Lightning Summary  
