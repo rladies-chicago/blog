@@ -21,7 +21,7 @@ Some relevant tags you might want to use:
   
 *The R-Ladies Chicago organizers may add tags they feel are relevant!*  
   
-If using a dataset that isn't in R, please do your best to have your data pulled in remotely. In an ideal scenario, you provide a single `.Rmd` file that can be knitted and added to the site (without any other necessary files).   
+If using a dataset that isn't in R, please do your best to have your data pulled in remotely (from GitHub or elsewhere). In an ideal scenario, you provide a single `.Rmd` file that can be knitted and added to the site (without any other necessary files).   
   
 One way to do this is via `RCurl`:  
   
