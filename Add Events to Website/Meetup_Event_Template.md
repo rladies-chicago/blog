@@ -88,7 +88,7 @@ Thank you to Microsoft Developer Advocates (https://developer.microsoft.com/en-u
 ### FAQs
   
 **Q: Are men welcome to attend R-Ladies events?**  
-A: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact [masked] if you have questions.***  
+A: Our primary mission is to encourage more women and non-binary individuals to get involved in the R community. ***As such, we strongly encourage that all men who attend this event have a female or non-binary sponsor. Please contact chicago@rladies.org if you have questions.***  
   
 Additionally, please help us by spreading the word about R-Ladies, and by being respectful of the fact that this event is primarily for women/non-binary/female-identifying individuals.  
   
